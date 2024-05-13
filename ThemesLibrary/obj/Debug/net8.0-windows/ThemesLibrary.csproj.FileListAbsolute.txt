@@ -1,0 +1,17 @@
+C:\Projects\C#\GeniusProg\ThemesLibrary\bin\Debug\net8.0-windows\ThemesLibrary.deps.json
+C:\Projects\C#\GeniusProg\ThemesLibrary\bin\Debug\net8.0-windows\ThemesLibrary.dll
+C:\Projects\C#\GeniusProg\ThemesLibrary\bin\Debug\net8.0-windows\ThemesLibrary.pdb
+C:\Projects\C#\GeniusProg\ThemesLibrary\obj\Debug\net8.0-windows\FullDictionary.baml
+C:\Projects\C#\GeniusProg\ThemesLibrary\obj\Debug\net8.0-windows\Resources\BlackWhite.baml
+C:\Projects\C#\GeniusProg\ThemesLibrary\obj\Debug\net8.0-windows\Resources\PinkGrey.baml
+C:\Projects\C#\GeniusProg\ThemesLibrary\obj\Debug\net8.0-windows\ThemesLibrary_MarkupCompile.cache
+C:\Projects\C#\GeniusProg\ThemesLibrary\obj\Debug\net8.0-windows\ThemesLibrary.g.resources
+C:\Projects\C#\GeniusProg\ThemesLibrary\obj\Debug\net8.0-windows\ThemesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C#\GeniusProg\ThemesLibrary\obj\Debug\net8.0-windows\ThemesLibrary.AssemblyInfoInputs.cache
+C:\Projects\C#\GeniusProg\ThemesLibrary\obj\Debug\net8.0-windows\ThemesLibrary.AssemblyInfo.cs
+C:\Projects\C#\GeniusProg\ThemesLibrary\obj\Debug\net8.0-windows\ThemesLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\C#\GeniusProg\ThemesLibrary\obj\Debug\net8.0-windows\ThemesLibrary.sourcelink.json
+C:\Projects\C#\GeniusProg\ThemesLibrary\obj\Debug\net8.0-windows\ThemesLibrary.dll
+C:\Projects\C#\GeniusProg\ThemesLibrary\obj\Debug\net8.0-windows\refint\ThemesLibrary.dll
+C:\Projects\C#\GeniusProg\ThemesLibrary\obj\Debug\net8.0-windows\ThemesLibrary.pdb
+C:\Projects\C#\GeniusProg\ThemesLibrary\obj\Debug\net8.0-windows\ref\ThemesLibrary.dll

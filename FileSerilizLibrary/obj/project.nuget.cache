@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yJ2emdfWnm0nZdKPPITBlQZ31pOjqe7hvECrhFykxXtuS69AJEPPEKm4XruUSNBdmG54Vgwdr+BaL9SL4C/VWg==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\C#\\GeniusProg\\FileSerilizLibrary\\FileSerilizLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denol.MSI\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
